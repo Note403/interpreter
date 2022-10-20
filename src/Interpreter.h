@@ -1,11 +1,7 @@
 #pragma once
 
-#include <iostream>
-#include <vector>
-#include <string>
-#include <map>
+#include "General.h"
 
-#include "Storage.h"
 #include "Functions.h"
 #include "Tokenizer.h"
 

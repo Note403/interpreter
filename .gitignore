@@ -1,3 +1,4 @@
 
 *.syc
 *.exe
+.vscode/settings.json

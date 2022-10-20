@@ -1,8 +1,7 @@
-#include <iostream>
 #include <cstring>
-#include <vector>
 #include <fstream>
 
+#include "src/General.h"
 #include "src/Tokenizer.h"
 #include "src/Interpreter.h"
 

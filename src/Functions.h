@@ -1,12 +1,8 @@
 #pragma once
 
-#include <iostream>
-#include <vector>
-#include <string>
 #include <functional>
-#include <map>
 
-#include "Storage.h"
+#include "General.h"
 
 class Functions {
     public:
